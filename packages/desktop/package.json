@@ -1,0 +1,19 @@
+{
+  "name": "@osama.almosafer/desktop",
+  "version": "0.0.4",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "gitHead": "d1162a3f2b3948553faccbf19639d8b714ef4875",
+  "dependencies": {
+    "@osama.almosafer/store": "0.0.3"
+  }
+}
