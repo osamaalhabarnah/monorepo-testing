@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.11](https://github.com/osamaalhabarnah/monorepo-testing/compare/@osamayusur/store@0.0.10...@osamayusur/store@0.0.11) (2024-05-19)
+
+**Note:** Version bump only for package @osamayusur/store
+
+
+
+
+
 ## [0.0.10](https://github.com/osamaalhabarnah/monorepo-testing/compare/@osamayusur/store@0.0.9...@osamayusur/store@0.0.10) (2024-05-19)
 
 **Note:** Version bump only for package @osamayusur/store
