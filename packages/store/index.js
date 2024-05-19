@@ -1,3 +1,3 @@
 export const store = {
-    username: 'user',
+    username: 'yusur',
 }

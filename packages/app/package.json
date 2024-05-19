@@ -12,5 +12,8 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "d1162a3f2b3948553faccbf19639d8b714ef4875"
+  "gitHead": "d1162a3f2b3948553faccbf19639d8b714ef4875",
+  "dependencies": {
+    "@osama.almosafer/store": "^0.0.3"
+  }
 }
